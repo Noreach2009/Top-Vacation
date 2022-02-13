@@ -1,0 +1,93 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+
+
+body{
+    background-color: antiquewhite;
+}
+
+.Author{
+    color: cyan;
+}
+
+
+.Publish{
+    color: darkorchid;
+}
+h1{
+    color:navy;
+}
+
+
+.banner{
+    height: 200px;
+    background-image: url('bruh.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    border: 2px solid white;
+    
+}
+
+h2{
+    padding-top: 150px;
+    letter-spacing: 15px;
+}
+
+.intro{
+    text-align: center;
+    font-family: calc();
+    border: 2px solid cyan;
+    
+}
+q{
+    font-family: monospace;
+}
+
+
+.destination{
+    text-align: left;
+}
+
+.destination h3{
+    color:mediumspringgreen
+    
+}
+.destination p{
+    color:aquamarine;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 16px;
+
+}
+
+.destination ul{
+    margin-left: 25px;
+}
+.more{
+    text-align: left;
+}
+.more h3{
+    color:cornflowerblue
+}
+.more ul{
+    list-style: circle;
+
+}
+.more ul li{
+    color: greenyellow;
+}
+.footer{
+border:5px dashed chocolate;
+}
+    
+
+
+
+
+
+    
+    
